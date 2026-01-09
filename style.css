@@ -1,0 +1,16 @@
+body {
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+    height: 100vh;
+}
+
+li {
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    justify-content: space-between;
+}
+
